@@ -2,15 +2,15 @@
 Компьютерная игра "Processing Invaders". Написана на Processing в рамках изучения данной платформы. Частично реализует механику игры "Space Invaders".
 
 ## Скриншоты
-<img src="/docs/image_01.jpg">
-<img src="/docs/image_02.jpg">
+<img src="/docs/image_01.png">
+<img src="/docs/image_02.png">
 
 ## Установка
 1. Клонируйте репозиотрий
 2. Скачайте и установите https://processing.org/download/
 3. Установите для Processing библиотеку **Sound**
 
-<img src="/docs/image_03.jpg">
+<img src="/docs/image_03.png">
 
 ## Запуск
 1. Откройте Processing
